@@ -1,0 +1,6 @@
+.vagrant/
+1/
+2/
+script.deb.sh
+*.log
+vagrantfile
